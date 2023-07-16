@@ -1,1 +1,3 @@
 This is django class - Version 1
+
+This is django Class - Version 2
